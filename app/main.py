@@ -10,7 +10,7 @@ from .routers import post, user, auth, vote
 
 app = FastAPI()
 
-# models.Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 
 
 

@@ -3,7 +3,6 @@ alembic==1.6.5
 aniso8601==7.0.0
 async-exit-stack==1.0.1
 async-generator==1.10
-attrs==20.3.0
 autopep8==1.5.7
 bcrypt==3.2.0
 certifi==2021.5.30
@@ -24,18 +23,13 @@ h11==0.12.0
 httptools==0.3.0
 idna==3.2
 itsdangerous==1.1.0
-jellyfish==0.8.9
 Jinja2==2.11.3
-lib50==3.0.3
 Mako==1.1.5
 MarkupSafe==2.0.1
-nodeenv==1.6.0
 orjson==3.6.1
 passlib==1.7.4
-pexpect==4.8.0
 promise==2.3
 psycopg2==2.9.1
-ptyprocess==0.7.0
 pyasn1==0.4.8
 pycodestyle==2.7.0
 pycparser==2.20
@@ -52,8 +46,6 @@ Rx==1.6.1
 six==1.16.0
 SQLAlchemy==1.4.23
 starlette==0.14.2
-submit50==3.1.0
-termcolor==1.1.0
 toml==0.10.2
 typing-extensions==3.10.0.0
 ujson==4.0.2
